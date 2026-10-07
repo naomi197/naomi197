@@ -1,111 +1,71 @@
-# Hi, I'm Alireza Sani
+# Alireza Sani
 
-**Python Developer | Automation & Trading Bot Specialist | API Integration Expert**
+**Environmental Specialist · Automation & Software Engineer**  
+Python · Climate & Water Systems · Web3 · Computational Civil Engineering
 
----
+I build practical software for environmental work, water and infrastructure engineering, and crypto-native automation. My focus is tools that a client can run: APIs, CLI pipelines, and bots with tests, clear docs, and a defined scope.
 
-## About Me
-
-I'm a Python developer specializing in building automation solutions and event-driven systems. I have hands-on experience with:
-- Building production-grade automation bots (Telegram, TradingView, webhooks)
-- Crypto market data integration and trading workflow automation
-- RESTful API design and integration (Binance, Hyperliquid, TradingView)
-- Async Python backend systems and data processing pipelines
-
-I'm highly motivated, detail-oriented, and committed to delivering high-quality code for challenging projects.
+GitHub: [@naomi197](https://github.com/naomi197)
 
 ---
 
-## Core Competencies
+## What I work on
 
-- **Languages:** Python 3.10+
-- **Backend Frameworks:** FastAPI, Flask
-- **APIs Integrated:** Binance REST API, Hyperliquid, TradingView Webhooks, Telegram Bot API
-- **Architecture:** Async/Await, Event-driven systems, Paper trading simulation
-- **DevOps:** Docker, Environment configuration, Structured logging
-- **Testing:** pytest, Unit testing, Mocked dependencies
+- **Environment & climate:** pollution-reporting APIs, weather/climate assistants, nature-impact apps
+- **Water & civil engineering:** hydraulic pipe sizing, 2D truss FEA, CAD/DFM mesh checks
+- **Web3 payments:** USDC invoice checks, grant escrow prototypes, on-chain verification
+- **Automation:** Telegram and webhook bots, market-data pipelines, Python backends (FastAPI)
 
 ---
 
-## Featured Projects
+## Selected work
 
-### 🚀 Crypto Telegram Alert Bot
-A production-ready Telegram bot for cryptocurrency price monitoring and alerts.
+### Environment
 
-**Link:** [github.com/naomi197/crypto-telegram-alert-bot](https://github.com/naomi197/crypto-telegram-alert-bot)
+**[CleanFlow Ghana](https://github.com/naomi197/cleanflow-ghana)** — FastAPI service that records water-pollution reports and ranks them by pollutant type and severity so response teams can act on the highest-risk incidents first.
 
-**Key Features:**
-- Live price fetching from Binance
-- Target-price alert system with background monitoring
-- Async processing with structured logging
-- Full test coverage with mocked API responses
-- MIT License
+**[TreeGrow](https://github.com/naomi197/treegrow-android)** — Android app for tracking tree-planting and environmental impact.
 
----
+**[Weather Climate Assistant](https://github.com/naomi197/weather-climate-assistant)** — Android assistant for daily weather and climate information from official sources.
 
-### 🎯 TradingView Webhook Bot
-A FastAPI-based webhook service that processes TradingView alerts and executes them through a paper broker simulation.
+### Civil & computational engineering
 
-**Link:** [github.com/naomi197/tradingview-webhook-bot](https://github.com/naomi197/tradingview-webhook-bot)
+**[Water Network Optimizer](https://github.com/naomi197/water-network-optimizer)** — Python toolkit for pressurized networks: Hazen–Williams head loss, pipe sizing against velocity limits, CSV reports.
 
-**Key Features:**
-- Token-authenticated webhook endpoint
-- BUY / SELL / CLOSE signal handling
-- Simulated paper trading account
-- Real-time portfolio tracking
-- Health monitoring and status endpoints
+**[Truss Structural Optimizer](https://github.com/naomi197/truss-structural-optimizer)** — 2D truss FEA (direct stiffness) with discrete section sizing, stress checks, plots, and CSV/JSON output.
 
----
+**[Smart CAD Pipeline](https://github.com/naomi197/smart-cad-pipeline)** — CLI pipeline for STL mesh QA and DFM checks (additive manufacturing and injection molding).
 
-### 📈 Hyperliquid Paper Trading Bot
-A risk-managed paper trading simulator for testing trading strategies without real capital exposure.
+### Web3 & payments
 
-**Link:** [github.com/naomi197/hyperliquid-paper-trading-bot](https://github.com/naomi197/hyperliquid-paper-trading-bot)
+**[Invoice Sanity Check](https://github.com/naomi197/invoice-sanity-check)** — Deterministic invoice arithmetic with Python `Decimal` (line items, tax, totals).
 
-**Key Features:**
-- Risk-based position sizing
-- Market order simulation
-- Account state and P&L tracking
-- Deterministic workflow for strategy validation
+**[Arc Invoice Verify](https://github.com/naomi197/arc-invoice-verify)** — Read-only USDC invoice verification prototype for Arc.
+
+**[Portagrant](https://github.com/naomi197/portagrant)** — Milestone-based grant escrow for the Portaldot V3 ecosystem (Rust / ink!).
+
+### Automation
+
+**[Crypto Telegram Alert Bot](https://github.com/naomi197/crypto-telegram-alert-bot)** — Price alerts from Binance with async Python, logging, and tests.
+
+**[TradingView Webhook Bot](https://github.com/naomi197/tradingview-webhook-bot)** — FastAPI webhook that turns TradingView alerts into paper-broker actions.
 
 ---
 
-### 📊 Crypto Orderbook Aggregator
-Real-time cryptocurrency orderbook data collection and aggregation from multiple sources.
+## Stack
 
-**Link:** [github.com/naomi197/crypto-orderbook-aggregator](https://github.com/naomi197/crypto-orderbook-aggregator)
-
----
-
-### 🔍 Crypto Funding Scanner
-Automated scanner for identifying cryptocurrency funding opportunities and market signals.
-
-**Link:** [github.com/naomi197/crypto-funding-scanner](https://github.com/naomi197/crypto-funding-scanner)
+| Area | Tools |
+|---|---|
+| Language | Python 3.10+ · Kotlin · Rust |
+| Backend | FastAPI · Flask · REST · async |
+| Data & engineering | NumPy · pytest · Pydantic · CSV/JSON reporting |
+| Web3 | USDC invoicing · wallet-oriented prototypes · Solana/ink! experiments |
+| Delivery | CLI tools · Docker-ready layouts · structured logging |
 
 ---
 
-### 📝 Crypto Trade Journal
-Trade logging and performance analytics platform for monitoring trading activity and strategy evaluation.
+## How I like to work
 
-**Link:** [github.com/naomi197/crypto-trade-journal](https://github.com/naomi197/crypto-trade-journal)
+Remote. Scoped deliverables. Python backends and engineering scripts first. Settlement in crypto (USDC/USDT) is fine when the client prefers a wallet.
 
----
-
-## Why Hire Me?
-
-✅ **Proven Delivery:** 6+ production-ready projects with clean, maintainable code  
-✅ **Strong Python Skills:** Advanced async programming, design patterns, best practices  
-✅ **API Integration Expertise:** Real-world experience with Binance, Hyperliquid, TradingView, Telegram  
-✅ **Attention to Detail:** Structured logging, error handling, testing, documentation  
-✅ **Highly Motivated:** Dedicated to challenging projects and continuous improvement  
-✅ **Flexible & Scalable:** Can work on various project types and scales
-
----
-
-## Ready to Start?
-
-I'm actively looking for Python development opportunities. Whether it's building a new bot, integrating APIs, automating workflows, or backend development—I'm ready to contribute.
-
-**GitHub:** [@naomi197](https://github.com/naomi197)
-
-Let's build something great together!
+If you need an environmental data API, a small civil-engineering solver, or a webhook/bot that actually runs, open an issue on one of the repos or reach me through GitHub.
