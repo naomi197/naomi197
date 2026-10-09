@@ -13,7 +13,7 @@ Contact is by email at alirezafazeli@live.com. The account address stays `naomi1
 | Repository | What it does |
 | --- | --- |
 | [ClimaScope](https://github.com/naomi197/climascope) | Live climate observatory for Android and the browser: greenhouse gases, air quality, GloFAS river discharge, and a HighResMIP outlook. [Open it](https://naomi197.github.io/climascope/) |
-| [CleanFlow Ghana](https://github.com/naomi197/cleanflow-ghana) | Water-pollution reports ranked by urgency for environmental response. |
+| [CleanFlow Ghana](https://github.com/naomi197/cleanflow-ghana) | Water-pollution queue for Ghana: rank an incident, then move it from open to resolved. |
 | [Water Network Optimizer](https://github.com/naomi197/water-network-optimizer) | Pipe sizing and Hazen-Williams head loss for pressurized networks. |
 | [Truss Structural Optimizer](https://github.com/naomi197/truss-structural-optimizer) | 2D truss analysis and minimum-weight section sizing. |
 | [Beam Solver](https://github.com/naomi197/beam-solver) | Shear, moment, and deflection diagrams for a simply supported beam, with PDF reports. |
