@@ -4,7 +4,9 @@ Civil and environmental engineering come first. Software is how that work is cal
 
 Climate, water, and structural systems are the subject. Python, Android, and web automation are the tools.
 
-[Resume](https://github.com/naomi197/naomi197/raw/main/resume.pdf) · [Email](mailto:alirezafazeli@live.com) · [ClimaScope](https://naomi197.github.io/climascope/)
+Alireza Sani · [alirezafazeli@live.com](mailto:alirezafazeli@live.com) · [ClimaScope](https://naomi197.github.io/climascope/)
+
+The public name is Alireza Sani. The account address stays `naomi197`.
 
 ## Civil and environmental engineering
 
@@ -15,8 +17,8 @@ Climate, water, and structural systems are the subject. Python, Android, and web
 | [Water Network Optimizer](https://github.com/naomi197/water-network-optimizer) | Pipe sizing and Hazen-Williams head loss for pressurized networks. |
 | [Truss Structural Optimizer](https://github.com/naomi197/truss-structural-optimizer) | 2D truss analysis and minimum-weight section sizing. |
 | [Beam Solver](https://github.com/naomi197/beam-solver) | Shear, moment, and deflection diagrams for a simply supported beam, with PDF reports. |
-| [Weather Climate Assistant](https://github.com/naomi197/weather-climate-assistant) | Android client for forecast and air quality. |
-| [TreeGrow](https://github.com/naomi197/treegrow-android) | Android records for planted trees and local environmental impact. |
+| [Weather Climate Assistant](https://github.com/naomi197/weather-climate-assistant) | Android weather and air quality from Open-Meteo, with no API key. |
+| [TreeGrow](https://github.com/naomi197/treegrow-android) | On-device tree records. Account sign-in waits for a Firebase project. |
 
 ## Software engineering
 
@@ -57,4 +59,4 @@ Wallet for financial support and paid work (ETH / USDC):
 
 `0xf3ddb743b4f1BD8b59Bf5Bf22905555Fe5c4B7C1`
 
-[View on Etherscan](https://etherscan.io/address/0xf3ddb743b4f1BD8b59Bf5Bf22905555Fe5c4B7C1) · [GitHub Sponsors](https://github.com/sponsors/naomi197)
+[View on Etherscan](https://etherscan.io/address/0xf3ddb743b4f1BD8b59Bf5Bf22905555Fe5c4B7C1)
