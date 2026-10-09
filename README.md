@@ -6,7 +6,7 @@ Climate, water, and structural systems are the subject. Python, Android, and web
 
 [Resume](https://github.com/naomi197/naomi197/raw/main/resume.pdf) · [alirezafazeli@live.com](mailto:alirezafazeli@live.com) · [ClimaScope](https://naomi197.github.io/climascope/)
 
-The CV name is Alireza Fazeli. The GitHub profile name is Alireza Sani. The account address stays `naomi197`.
+Contact is by email at alirezafazeli@live.com. The account address stays `naomi197`.
 
 ## Civil and environmental engineering
 
