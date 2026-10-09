@@ -10,6 +10,7 @@
 ---
 
 ### 🚀 Key Projects
+- **[climascope](https://github.com/naomi197/climascope)** — Live climate observatory for Android and the browser: greenhouse gases, air quality, river discharge, and HighResMIP outlooks. [Open it](https://naomi197.github.io/climascope/)
 - **[crypto-telegram-alert-bot](https://github.com/naomi197/crypto-telegram-alert-bot)** — Async Python bot for crypto market monitoring.
 - **[crypto-orderbook-aggregator](https://github.com/naomi197/crypto-orderbook-aggregator)** — High-frequency orderbook aggregation engine.
 - **[hyperliquid-paper-trading-bot](https://github.com/naomi197/hyperliquid-paper-trading-bot)** — Risk-managed trading simulation.
