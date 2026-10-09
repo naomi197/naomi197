@@ -4,9 +4,9 @@ Civil and environmental engineering come first. Software is how that work is cal
 
 Climate, water, and structural systems are the subject. Python, Android, and web automation are the tools.
 
-Alireza Sani · [alirezafazeli@live.com](mailto:alirezafazeli@live.com) · [ClimaScope](https://naomi197.github.io/climascope/)
+[Resume](https://github.com/naomi197/naomi197/raw/main/resume.pdf) · [alirezafazeli@live.com](mailto:alirezafazeli@live.com) · [ClimaScope](https://naomi197.github.io/climascope/)
 
-The public name is Alireza Sani. The account address stays `naomi197`.
+The CV name is Alireza Fazeli. The GitHub profile name is Alireza Sani. The account address stays `naomi197`.
 
 ## Civil and environmental engineering
 
